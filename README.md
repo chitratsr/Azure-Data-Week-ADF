@@ -1,2 +1,2 @@
-# AzureDaysAdf
-Demos from Azure Days for ADF
+# Azure Data Week for ADF
+Demos from Azure Data Week for ADF
